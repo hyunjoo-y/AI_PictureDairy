@@ -29,7 +29,11 @@
 
 ## 주요 개발 화면 및 영상 링크
 
+- 일기 캘린더 화면
+  
 <img width="1335" alt="image" src="https://github.com/user-attachments/assets/df8ed7e2-8b56-4e3f-af8f-fb9faca6c2ef" />
 
+- 유튜브 영상 링크
+  
 [![Watch the video](https://img.youtube.com/vi/QjRgvWJ5BsQ/0.jpg)](https://www.youtube.com/watch?v=QjRgvWJ5BsQ)
 
